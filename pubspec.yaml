@@ -170,8 +170,10 @@ flutter:
   assets:
     - assets/images/
     - assets/icons/
+    - assets/register/
     - assets/csv/
     - assets/audios/
+    - assets/video/
     - android/app/src/main/res/mipmap-hdpi/
     - ios/Runner/Assets.xcassets/AppIcon.appiconset/
 
